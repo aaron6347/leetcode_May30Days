@@ -7,3 +7,7 @@ a=5
 print(~a)
 print((1<<a.bit_length())-1)
 print(~a & (1<<a.bit_length())-1)
+
+
+
+
