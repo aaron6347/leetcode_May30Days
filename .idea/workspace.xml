@@ -23,8 +23,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.day19_stock_open_span">
-    <configuration name="day16_odd_even_linked_llist" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.day27_possible_bipartition">
+    <configuration name="day20_kth_smallest_element_in_a_bst" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_May30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -36,7 +36,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day16_odd_even_linked_llist.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day20_kth_smallest_element_in_a_bst.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -45,7 +45,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day17_find_all_anagrams_in_a_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day24_construct_binary_search_tree_from_preorder_traversal" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_May30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +57,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day17_find_all_anagrams_in_a_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day24_construct_binary_search_tree_from_preorder_traversal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -66,7 +66,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day18_permutation_in_string" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day25_uncrossed_lines" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_May30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day18_permutation_in_string.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day25_uncrossed_lines.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,7 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="day19_stock_open_span" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day26_contiguous_array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_May30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -99,7 +99,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day19_stock_open_span.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day26_contiguous_array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +108,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="day27_possible_bipartition" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_May30Days" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -120,7 +120,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/day27_possible_bipartition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.day19_stock_open_span" />
-        <item itemvalue="Python.day16_odd_even_linked_llist" />
-        <item itemvalue="Python.day17_find_all_anagrams_in_a_string" />
-        <item itemvalue="Python.day18_permutation_in_string" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.day27_possible_bipartition" />
+        <item itemvalue="Python.day26_contiguous_array" />
+        <item itemvalue="Python.day25_uncrossed_lines" />
+        <item itemvalue="Python.day24_construct_binary_search_tree_from_preorder_traversal" />
+        <item itemvalue="Python.day20_kth_smallest_element_in_a_bst" />
       </list>
     </recent_temporary>
   </component>
@@ -165,25 +165,29 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1492" height="192" key="GridCell.Tab.0.bottom" timestamp="1589907864539">
+    <state width="1492" height="189" key="GridCell.Tab.0.bottom" timestamp="1590577312136">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="192" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1589907864539" />
-    <state width="1492" height="192" key="GridCell.Tab.0.center" timestamp="1589907864539">
+    <state width="1492" height="189" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1590577312136" />
+    <state width="1492" height="189" key="GridCell.Tab.0.center" timestamp="1590577312135">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="192" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1589907864539" />
-    <state width="1492" height="192" key="GridCell.Tab.0.left" timestamp="1589907864539">
+    <state width="1492" height="189" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1590577312135" />
+    <state width="1492" height="189" key="GridCell.Tab.0.left" timestamp="1590577312135">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="192" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1589907864539" />
-    <state width="1492" height="192" key="GridCell.Tab.0.right" timestamp="1589907864539">
+    <state width="1492" height="189" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1590577312135" />
+    <state width="1492" height="189" key="GridCell.Tab.0.right" timestamp="1590577312136">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1492" height="192" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1589907864539" />
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1589907707691">
+    <state width="1492" height="189" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1590577312136" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590079423493">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1589907707691" />
+    <state width="498" height="446" key="SwitcherDM/0.40.1536.824@0.40.1536.824" timestamp="1590079423493" />
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog" timestamp="1590575392639">
+      <screen x="0" y="40" width="1536" height="824" />
+    </state>
+    <state x="828" y="276" key="com.intellij.ide.util.TipDialog/0.40.1536.824@0.40.1536.824" timestamp="1590575392639" />
   </component>
 </project>
